@@ -1,0 +1,5 @@
+
+<view>
+ <button size="default" onTap="goToMovable" type="primary">Movable View</button>
+ <button size="default"  onTap="goToScroll" type="primary">Scroll View</button>
+</view>

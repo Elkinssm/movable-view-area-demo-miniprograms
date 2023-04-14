@@ -1,0 +1,11 @@
+{
+  "subPackageBuildType": "shared",
+  "pages": [
+    "pages/index/index",
+    "pages/movable-view/movable-view",
+    "pages/scroll-view/scroll-view"
+  ],
+  "window": {
+    "defaultTitle": "My App"
+  }
+}
